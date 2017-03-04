@@ -1,5 +1,20 @@
 <?php
 
+/**
+* Name:  Google reCAPTCHA 
+* 
+* Author: Geordy James 
+*         @geordyjames
+*          
+*          
+* Created:  04.03.2017
+
+* Created by Geordy James to make a easy vaesion of google reCAPTCHA PHP Library
+* 
+* Description:  This is an unofficial easy version of google reCAPTCHA PHP Library
+* 
+*/
+
 class Recaptcha{
 	
 	public function __construct(){
