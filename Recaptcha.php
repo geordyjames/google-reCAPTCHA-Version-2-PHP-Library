@@ -10,9 +10,9 @@
           
 * Created:  04.03.2017
 
-* Created by Geordy James to make a easy vaesion of google reCAPTCHA PHP Library
+* Created by Geordy James to make a easy version of google reCAPTCHA PHP Library
 * 
-* Description:  This is an unofficial easy version of google reCAPTCHA PHP Library
+* Description:  This is an unofficial version of google reCAPTCHA PHP Library
 * 
 */
 
