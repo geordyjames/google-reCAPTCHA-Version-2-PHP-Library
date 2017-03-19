@@ -1,18 +1,16 @@
 <?php
 
 /**
-* Name:  Google reCAPTCHA 
+* Name:  Google Invisible reCAPTCHA 
 * 
 * Author: Geordy James 
 *         @geordyjames
-*          
-* Location: https://github.com/geordyjames/google-reCAPTCHA-Version-2-PHP-Library
-          
-* Created:  04.03.2017
+*                   
+* Created:  13.03.2017
 
-* Created by Geordy James to make a easy version of google reCAPTCHA PHP Library
+* Created by Geordy James to make a easy version of google Invisible reCAPTCHA PHP Library
 * 
-* Description:  This is an unofficial version of google reCAPTCHA PHP Library
+* Description:  This is an unofficial version of google Invisible reCAPTCHA PHP Library
 * 
 */
 
